@@ -1,0 +1,16 @@
+
+# Keep encrypted vault files private
+vault.enc
+*.enc
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Environment files and secrets
+.env
+.env.*
+*.key
+
+# macOS system files
+.DS_Store
