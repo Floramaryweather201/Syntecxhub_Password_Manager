@@ -65,6 +65,8 @@ The encrypted `vault.enc` file is excluded from the public repository.
 
 This is an educational project and is not intended to replace a production password manager.
 
+[📸 View Password Manager Screenshots (PDF)](https://github.com/Floramaryweather201/Syntecxhub_Password_Manager/blob/main/Password_Manager_Project_2_Screenshots_NEW.pdf)
+
 ## Author
 
 Developed for the Syntecxhub Cybersecurity Internship.
